@@ -112,7 +112,7 @@ Recherche de la fréquence cardiaque.
  # Identification de la fréquence cardiaque avec la fonction d’autocorrélation
  
  ### 9)Ecrire un programme permettant de calculer l’autocorrélation du signal ECG, puis de chercher cette fréquence cardiaque de façon automatique
-<img width="1192" alt="Screenshot 2023-01-25 at 02 35 26" src="https://user-images.githubusercontent.com/87026851/214461394-73be0bca-180f-454c-b459-3840edd341cd.png">
+<img width="1182" alt="Screenshot 2023-01-25 at 02 40 49" src="https://user-images.githubusercontent.com/87026851/214462222-e6d0a84d-e642-4ce5-9067-2b42f145f4a8.png">
 
 
 ```
